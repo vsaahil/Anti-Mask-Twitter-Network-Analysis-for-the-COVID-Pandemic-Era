@@ -1,5 +1,4 @@
-# Anti-Mask-Twitter-Network-Analysis-for-the-COVID-Pandemic-Era
-Anti-Mask Twitter Network Analysis during the COVID Pandemic Era
+# Anti-Mask Twitter Network Analysis during the COVID Pandemic Era
 
 ## Motivation for the project
 Since its inception, Social Media has been serving as a medium for spreading conspiracy theories, misinformation, and confusion and in recent times, Anti-vaccination movements have been gaining momentum since the approval of COVID vaccines. The individuals/communities who refuse to wear masks, typically do not believe in the effectiveness of masks and perceive it as a threat to their rights and some even believe that the COVID-19 pandemic is a hoax.
